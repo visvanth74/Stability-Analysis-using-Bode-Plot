@@ -5,6 +5,9 @@ To analyse the stability of the system having open loop transfer function, G(S)=
 Computer with MATLAB software
 
 ## Theory:
+![WhatsApp Image 2025-11-27 at 23 16 54_80d7c505](https://github.com/user-attachments/assets/734b7745-e1f6-460f-9246-b062eb9c3415)
+![WhatsApp Image 2025-11-27 at 23 17 08_90b78ebc](https://github.com/user-attachments/assets/0f35a3cf-4920-4044-9246-2694f3e7732b)
+![WhatsApp Image 2025-11-27 at 23 17 10_8431a3b2](https://github.com/user-attachments/assets/35dd46f6-e463-4598-99b1-0274fa2f5d5b)
 
 
 
